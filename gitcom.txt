@@ -3,3 +3,6 @@ git status -> to check status
 git add . or git add <file name> -> to add in statgearea
 git commit -m "" -> to commit the file
 git log -> to check all commited 
+git config --global user.name -> to see username
+git config --global user.email -> to see user id 
+git push -> to save in git hub

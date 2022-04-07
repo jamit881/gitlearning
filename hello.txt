@@ -15,4 +15,11 @@ added some command to git comand file
 git com is untracked file
 to track no need to initialized since file made after git init
 so simply git add and commit
-made changes to hello.txt  
+made changes to hello.txt 
+created repository in git hub
+git remote add origin https://github.com/jamit881/gitlearning.git
+git branch -M main
+git push -u origin main for the first time in new repo 20 21 22 line
+checked user id and emailid
+git push
+
