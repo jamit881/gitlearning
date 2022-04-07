@@ -15,4 +15,4 @@ added some command to git comand file
 git com is untracked file
 to track no need to initialized since file made after git init
 so simply git add and commit
-made changes to hello.txt 
+made changes to hello.txt  
