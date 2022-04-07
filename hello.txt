@@ -10,3 +10,9 @@ git log -> to see all commit
 added some lines and made changes to file something edited , deleted etc.
 now git status -> modified
 again same procedure add commit ...
+made file named git command
+added some command to git comand file
+git com is untracked file
+to track no need to initialized since file made after git init
+so simply git add and commit
+made changes to hello.txt 
