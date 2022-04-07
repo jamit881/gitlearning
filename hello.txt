@@ -1,3 +1,10 @@
 Hello everyone
 this is my first day of learning
 git init -> to initialized
+file is untracked bcoz file is created before init
+git add -> to add in statge for the first time
+git status changed to commit
+git status -> to check git status
+git commit -m "" m for message
+git log -> to see all commit
+
