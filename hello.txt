@@ -1,0 +1,3 @@
+Hello everyone
+this is my first day of learning
+git init -> to initialized
